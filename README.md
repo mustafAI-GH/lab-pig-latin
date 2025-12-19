@@ -1,1 +1,6 @@
-# lab-pig-latin
+## 🧠 About This Project
+
+I created this project as part of the [FreeCodeCamp](https://www.freecodecamp.org) program — **Implement a Pig Latin Translator**. 
+I used JavaScript to complete it.
+
+Next step.. ⏳
